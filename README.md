@@ -43,9 +43,6 @@ Here are some of the standout features I implemented:
 ![Cloudit Demo Screenshot](https://snipboard.io/fiG5su.jpg)
 ![Cloudit Demo Screenshot](https://snipboard.io/DvgUd8.jpg)
 
-## 🚀 Demo
-
-Check out the live demo here: [Cloudit Demo](https://cloudit.vercel.app/)
 
 ## Installation Steps
 
